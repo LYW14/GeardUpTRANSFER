@@ -6,7 +6,7 @@ function SiteFooter() {
             <Container className="px-4">
                 <p className="text-end">
                     Icons created by Hannah.
-                    <br />&copy; 2023 SheInnovates &nbsp;&nbsp;
+                    <br />&copy; 2024 SheInnovates &nbsp;&nbsp;
                 </p>
             </Container>
         </footer>

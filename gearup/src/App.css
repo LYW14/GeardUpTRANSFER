@@ -26,10 +26,14 @@ body{
             height: 60px;
             width: 100px;
         }
+        p{
+            color: white;
+        }
     h1, h2{
-    font-size: 20px;
+    font-size: 50px;
     text-align: center;
     font-weight: normal;
-    color:DarkSlateGray ;
+    color:white ;
+    font-family:courier;
   
     }
