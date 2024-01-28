@@ -3,18 +3,14 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
+
+
 function HomePage(){
     return (           
         <Container>
-            <Row className = "px-4 my-5">
-                <Col xs = {4} sm = {6}>
-                    <Image
-                        src="/img/pic1.png"
-                        width = "300"
-                        height = "300"
-                        fluid />
-                </Col>
-            </Row>
+            <h1>Let's get Gear'd Up!</h1>
+            <p> Streamlining the process of finding the nearest bike station, bike availability, distance between stations,
+                and potential cost of a ride. </p>
             <Row className = "px-4 my-5">
                 <Col xs = {30} sm = {30}>
                     <Image 
@@ -37,6 +33,15 @@ function HomePage(){
                 <Col xs = {30} sm = {30}>
                     <Image 
                         src = "/img/pic4.png"
+                        width = "300"
+                        height = "300"
+                        fluid />
+                </Col>
+            </Row>
+            <Row className = "px-4 my-5">
+                <Col xs = {30} sm = {30}>
+                    <Image 
+                        src = "/img/pic5.png"
                         width = "300"
                         height = "300"
                         fluid />
