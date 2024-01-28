@@ -23,6 +23,15 @@ function HomePage(){
             <Row className = "px-4 my-5">
                 <Col xs = {30} sm = {30}>
                     <Image 
+                        src = "/img/pic6.png"
+                        width = "300"
+                        height = "300"
+                        fluid />
+                </Col>
+            </Row>
+            <Row className = "px-4 my-5">
+                <Col xs = {30} sm = {30}>
+                    <Image 
                         src = "/img/pic3.png"
                         width = "300"
                         height = "300"
@@ -38,15 +47,7 @@ function HomePage(){
                         fluid />
                 </Col>
             </Row>
-            <Row className = "px-4 my-5">
-                <Col xs = {30} sm = {30}>
-                    <Image 
-                        src = "/img/pic5.png"
-                        width = "300"
-                        height = "300"
-                        fluid />
-                </Col>
-            </Row>
+            
             
         <p>
         This is the link to the fimga <a href="https://www.figma.com/file/cMdUlafqE5BmuoPQ3OuE8r/BikeMaps?type=design&node-id=19%3A5&mode=dev" target="_blank" rel="noopener noreferrer">website</a>.
