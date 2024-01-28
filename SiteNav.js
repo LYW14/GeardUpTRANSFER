@@ -12,7 +12,7 @@ function SiteNav() {
         <header>
             <Navbar bg="dark" expand="lg" variant="dark">
                 <Container>
-                    <Navbar.Brand><Nav.Link href="/">Gear'd Up!</Nav.Link></Navbar.Brand>
+                    <Navbar.Brand><Nav.Link href="/">Hi!</Nav.Link></Navbar.Brand>
                         <Col xs={1} sm={(4/3)}>
                             <Image
                                 src="/img/logo - Copy.png"
